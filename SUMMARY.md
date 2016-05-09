@@ -2,4 +2,4 @@
 
 - [版本控制系統 Git](book/git.md)
   - [Git 安裝](book/git-install.md)
-- [FB 資訊社團](group.md)
+- [FB 社團](group.md)
