@@ -7,9 +7,15 @@
 
 蘋果電腦只要從 App Store 裡面，下載安裝 Xcode 就會有 Git 了，不需要額外步驟。
 
-也可以用 Homebrew 來下載安裝 Git
+也可以用 Homebrew 下載安裝的 Git 不使用 Apple Xcode 所內建的
 
 Homebrew 安裝：
+
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+更多關於 Homebrew 相關資訊可以參考以下連結：
 
 [Homebrew](http://brew.sh/)
 
