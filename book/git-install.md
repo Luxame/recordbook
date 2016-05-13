@@ -1,6 +1,7 @@
 # Git 安裝
 
 前面說到 Git 是一個跨平台的版本控制系統，所以是能在 Windows 、 Mac OS X 、 Linux / UNIX 不同的作業系統上執行。
+
 下面將說明各系統的安裝說明。
 
 ### Mac OS X
@@ -50,6 +51,6 @@ sudo apt-get install git
 
 在各個系統中完成 Git 的安裝，想確認是否有成功可以在 終端機/命令提示字元 中下 `git` 指令
 
-出現如下圖所示及代表成功！
+出現如下圖所示即代表成功！
 
 ![git01](/images/git01.png)
