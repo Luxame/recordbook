@@ -21,10 +21,23 @@ $ git config --global core.editor vim
 
 設定常用編輯器
 
+$ git config --list
+
+查看所設定的環境變數
+
 ```
 
 `--golbal` : 表示全域設定
 
 
 
-在個別專案中要以其他使用者資訊做 git 操作，把 `--golbal` 拿掉，在專案目錄下重下一次指令即可
+在個別專案中要以其他使用者資訊做 git 操作，把 `--golbal` 拿掉，在專案目錄下重下相關指令即可
+
+### Start Git
+
+Git 環境設定好就可以開使進入使用 Git 對專案的操作了！
+
+- 建立一個新的 Repository
+
+在任何專案中，要做 git 操作的話需要有 `.git` 這個資料夾才能下 git 指令操作。
+新專案中建立 `.git` 資料夾，在終端機下 `git init` ， Git 就會建立 `.git` 資料夾
