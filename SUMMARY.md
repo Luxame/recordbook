@@ -8,4 +8,4 @@
 - [Microsoft PowerApps](book/powerapps.md)
 - [Android-x86](book/android-x86.md)
 - [Shell Script]()
-- [Node Version Manager(NVM)](nvm.md)
+- [Node Version Manager(NVM)](book/nvm.md)
