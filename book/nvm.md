@@ -9,3 +9,31 @@ NVM 全名是 Node Version Manager ，是用來管理 Node.js 版本的 Tool ，
 --------
 
 ### 安裝
+
+- Linux
+
+# Install NVM
+```
+wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.1/install.sh | bash
+```
+
+- Mac OSX
+
+# Install Homebrew
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+參考網站：[Homebrew](http://brew.sh/)
+
+# Install Wget
+```
+brew install wget
+```
+
+# Install NVM
+```
+wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.1/install.sh | bash
+```
+
+- Windows
