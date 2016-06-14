@@ -9,3 +9,4 @@
 - [Android-x86](book/android-x86.md)
 - [Shell Script]()
 - [Node Version Manager(NVM)](book/nvm.md)
+- [Mailchimp](book/mailchimp.md)
