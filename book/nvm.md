@@ -37,3 +37,7 @@ wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.31.1/install.sh | 
 ```
 
 - Windows
+
+安裝 [NVM For Windows](https://github.com/coreybutler/nvm-windows)
+
+[下載連結](https://github.com/coreybutler/nvm-windows/releases)
