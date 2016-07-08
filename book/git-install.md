@@ -53,4 +53,4 @@ sudo apt-get install git
 
 出現如下圖所示即代表成功！
 
-![git](/images/git01.png)
+![git01](/images/git01.png)
